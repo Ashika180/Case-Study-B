@@ -1,0 +1,57 @@
+
+
+#glens{
+    width: 150px;
+    height: 150px;
+}
+
+#mobilenet{
+    width: 185px;
+    height: 110px;
+}
+
+.objects{
+    width: 20%;
+}
+
+#b1{
+    font-size: 20px;
+    font-family: 'Abril Fatface', cursive;
+}
+
+#vs{
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+    letter-spacing: 1;
+}
+
+.copyright_footer{
+position: fixed;
+color: grey;
+background: rgb(12, 11, 11);
+bottom: 0px;
+width: 100%;
+text-align: center;
+line-height: 1.5;
+font-family: 'Special Elite', cursive;
+font-size: 20px;
+}
+
+.main_res{
+background-color: rgb(255, 115, 0);
+padding-top: 20px; 
+ padding-bottom: 20px;
+ margin-right: 100px;
+ margin-left: 100px;
+ margin-bottom: 30px; 
+ border-radius: 10px;
+ font-family: comic sans ms;
+ color: black;
+ font-size: 18px;
+ border: solid 4px brown;
+}
+
+
+
+
+
